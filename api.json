@@ -1,9 +1,73 @@
 { 
 "User" :  
 {
-"name" : "Ellco",
+  "name" : "Мага",
   "id" : 2353,
-  "password" : "nfhjhhg",
-  "contract": "340867304875028476"
+  "phone" : "+79264592467",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Евдоким",
+  "id" : 3965,
+  "phone" : "+79994582309",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Рамазан",
+  "id" : 1079,
+  "phone" : "+79670982375",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Марат",
+  "id" : 8320,
+  "phone" : "+79716739945",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Патя",
+  "id" : 1209,
+  "phone" : "+79125632467",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Газик",
+  "id" : 5916,
+  "phone" : "+79264592467",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Обама",
+  "id" : 3591,
+  "phone" : "+79264592467",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Катя",
+  "id" : 0934,
+  "phone" : "+79264592467",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Амир",
+  "id" : 5926,
+  "phone" : "+79264592467",
+  "password" : "",
+  "contract": ""
+}
+{
+  "name" : "Петух",
+  "id" : 8156,
+  "phone" : "+79264592467",
+  "password" : "",
+  "contract": ""
 }
 }
